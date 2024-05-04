@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+       "title":"6 Laptop Travel Bag",
+       "category": "Bag",
+       "price": 15.01,
+        "image":"/images/products/image1.png",
+        "status": "Best Selers",
+        "quantity": 1
+    },
+    {
+        "id":2,
+       "title":"Cargo Pants",
+       "category": "Trousers & Pants",
+       "price":  16.10,
+       "image":"/images/products/image2.png",
+       "status": "Best Selers",
+       "quantity": 1
+    },
+    {
+        "id":3,
+       "title":"V-Neck Tiered Dress",
+       "category": "Dress",
+       "price": 5.21,
+       "image":"/images/products/image3.png",
+       "status": "Best Selers",
+       "quantity": 1
+    },
+    {
+        "id":4,
+       "title":"Men Low-Top Walking Shoes",
+       "category": "Shoes",
+       "price": 15.09,
+       "image":"/images/products/image4.png",
+       "status": "New Arriaval",
+       "quantity": 1
+    },
+    {
+        "id":5,
+       "title":"30x Vitamin C Booster Serum | 15.0 ml",
+       "category": "Serum",
+       "price": 2.84,
+       "image":"/images/products/image5.png",
+       "status": "New Arriaval",
+       "quantity": 1
+    },
+    {
+        "id":6,
+       "title":"Kurta Set with Dupatta",
+       "category": "Dress",
+       "price": 15.72,
+       "image":"/images/products/image6.png",
+       "status": "Best Selers",
+       "quantity": 1
+    },
+    {
+        "id":7,
+       "title":"Hooded Trucker Jacket",
+       "category": "Jackets",
+       "price": 10.90,
+       "image":"/images/products/image7.png",
+       "status": "Best Selers",
+       "quantity": 1
+    },
+    {
+        "id":8,
+       "title":"Printed Cotton Saree with Zari Border",
+       "category": "Dress",
+       "price": 7.18,
+       "image":"/images/products/image8.png",
+       "quantity": 1
+    }
+   
+]
