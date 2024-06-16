@@ -18,7 +18,7 @@ export const Cards = () => {
               <h4 className='text-base font-semibold mb-2'>{item.title}</h4>
               <div className='flex justify-between'>
                 <p className='text-black/50'>{item.category}</p>
-                <p className='font-semibold'>{item.price}</p>
+                <p className='font-semibold'>$ {item.price}</p>
               </div>
             </div>
           </div>

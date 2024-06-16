@@ -18,7 +18,7 @@ export const BestSellers = () => {
     <div className='max-w-screen-2xl container mx-auto xl:px-28 px-4'>
         <div className='text-center'>
             <h2 className='text-3xl font-semibold capitalize mb-5'>Best Sellers</h2>
-            <p className='text-Black/75 capitalize md:w-2/3 mx-auto mb-auto'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut corporis animi eligendi nemo voluptatem ab possimus fuga? Dolorum, velit maxime autem assumenda vitae dolorem? Quam sequi asperiores eaque porro nostrum!</p>
+            <p className='text-Black/75 capitalize md:w-2/3 mx-auto mb-auto'>Discover our best sellers, the top picks our customers love! From trending items to timeless classics, these popular products are customer-approved favorites. Shop now to see why these must-haves are flying off the shelves!</p>
         </div>
         
         <div className='mb-16'>

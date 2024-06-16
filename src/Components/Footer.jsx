@@ -14,8 +14,8 @@ const Footer = () => {
               <img src="/logo.svg" alt="" />
             </Link>
             <p className="my-8 text-Black/75">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+            Follow Us: <br />
+            Facebook | Twitter | LinkdIn | Instagram
             </p>
             <div className="flex items-center gap-6">
               <FaFacebookF className="w-5 h-5 cursor-pointer hover:text-orange-500" />

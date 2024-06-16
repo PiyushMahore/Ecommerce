@@ -48,7 +48,7 @@ export const Navbar = () => {
         <nav className='flex justify-between items-center container md:py-4 pt-6 pb-3'>
            <div className='lg:flex lg:flex-row md:items-center'>
            <FaSearch onClick={enableSearch} className='text-Black w-5 h-10 cursor-pointer hidden md:block' />
-           <input type="text" name="search" id="search" className={`hidden ${searchbar ? "md:block ml-1 h-7 md:w-80 " : "hidden"}`}/>
+           <input type="text" name="search" id="search" className={`hidden ${searchbar ? "md:block ml-1 h-7 md:w-80 border" : "hidden"}`}/>
            </div>
            <NavLink to='/'><img src={logo} height={125} width={125} alt='LOGO' /></NavLink>
 
